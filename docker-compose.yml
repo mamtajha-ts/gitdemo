@@ -6,6 +6,7 @@ mysql:
     - MYSQL_ROOT_PASSWORD=
     - MYSQL_ALLOW_EMPTY_PASSWORD=true
     - MYSQL_USER=petfeat2a
+    - MYSQL_USER=petfeat2b
     - MYSQL_PASSWORD=petclinic
     - MYSQL_DATABASE=petclinic
   volumes:
